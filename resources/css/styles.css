@@ -30,7 +30,7 @@ body {
 }
 
 .box .face.face1 span {
-    background: url('../images/bg1.jpg');
+    background: url('../images/bg1_otp.jpg');
     transform-origin: top;
 }
 
@@ -39,7 +39,7 @@ body {
 }
 
 .box .face.face2 span {
-    background: url('../images/avatar.jpg');
+    background: url('../images/avatar_otp.jpg');
     transform-origin: bottom;
     transform: rotateX(90deg) translateY(50%);
 }
